@@ -1,4 +1,4 @@
 # john-demo
-This is m first Git repository. 
+This is my first Git repository. 
 <br>
-I am oo excited to learn git and now here I started.
+I am too excited to learn git and now here I started.
